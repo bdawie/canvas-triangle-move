@@ -1,0 +1,9 @@
+.wrapper{
+    width:600px;
+    height: 400px;
+    margin: 10px auto;
+}
+#myCanvas{
+    
+    border: 1px solid black;
+}
